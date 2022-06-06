@@ -4,7 +4,7 @@ module.exports = {
     'Micah Galos is recent graduate at UCR, actively looking for software engineering positions.',
   siteKeywords:
     'Micah Galos, Micah, Galos, micahgalos',
-  siteUrl: 'micahgalos.github.io/',
+  siteUrl: 'https://micahgalos.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-230893048-1',
   googleVerification: '87MSri6ugOnOiGKDmKGjBO5LJdWVZRCU2NmXGBHSzyY',
