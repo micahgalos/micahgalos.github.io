@@ -6,8 +6,8 @@ module.exports = {
     'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-230893048-1',
+  googleVerification: '87MSri6ugOnOiGKDmKGjBO5LJdWVZRCU2NmXGBHSzyY'
   name: 'Chandrika Deb',
   location: 'Jamshedpur, India',
   email: 'chandrikadeb7@gmail.com',
