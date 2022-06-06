@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: ' Micah Galos | Recent Graduate ',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Micah Galos is recent graduate at UCR, actively looking for software engineering positions.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Micah Galos, Micah, Galos, micahgalos',
+  siteUrl: 'micahgalos.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-230893048-1',
-  googleVerification: '87MSri6ugOnOiGKDmKGjBO5LJdWVZRCU2NmXGBHSzyY'
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  googleVerification: '87MSri6ugOnOiGKDmKGjBO5LJdWVZRCU2NmXGBHSzyY',
+  name: 'Micah Galos',
+  location: 'Riverside, California',
+  email: 'micahzugalos@gmail.com',
+  github: 'https://github.com/micahgalos',
+  twitterHandle: '@micahgalos',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/micahgalos',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/micahgalos/',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/micahgalos',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/micahgalos',
     },
   ],
 
