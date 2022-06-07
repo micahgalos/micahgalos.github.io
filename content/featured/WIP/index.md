@@ -1,5 +1,5 @@
 ---
-date: '2022-00-00'
+date: '2022-02-02'
 title: 'WIP'
 cover: 'bot.png'
 github: 'WIP'
