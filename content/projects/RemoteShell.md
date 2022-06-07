@@ -7,7 +7,7 @@ tech:
   - C++
   - Google Mock Test
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A linux based terminal emulator in C++ to emulate the linux terminal by running programs and correct commands.

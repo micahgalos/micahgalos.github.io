@@ -9,7 +9,7 @@ tech:
   - Java Tree Builder
   - Vapor-M Parser
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A four phase Java to MIPs compiler which translates Java programs and converts to low level register instructions.
