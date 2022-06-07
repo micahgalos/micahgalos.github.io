@@ -18,6 +18,10 @@
 
 ### TL;DR
 
+This is a fork from Chandrika Deb's, so all information is still a work in progress to adjust to my credentials.
+
+Thank you to Chandrika Deb for allowing us to fork and Brittany Chiang for the credit in the design.
+
 Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
