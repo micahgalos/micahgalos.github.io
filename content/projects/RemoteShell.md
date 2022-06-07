@@ -1,5 +1,5 @@
 ---
-date: '06-09-2019'
+date: '2019-06-09'
 title: 'RShell'
 github: 'https://github.com/micahgalos/Remote_Shell'
 external: ''

@@ -1,5 +1,5 @@
 ---
-date: '12-19-2021'
+date: '2021-12-19'
 title: 'Java to MIPs Compiler'
 github: 'https://github.com/micahgalos/J2M_Compiler'
 external: ''
