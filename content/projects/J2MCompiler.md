@@ -1,0 +1,15 @@
+---
+date: '12-19-2021'
+title: 'Java to MIPs Compiler'
+github: 'https://github.com/micahgalos/J2M_Compiler'
+external: ''
+tech:
+  - Java
+  - JavaCC
+  - Java Tree Builder
+  - Vapor-M Parser
+company: ''
+showInProjects: false
+---
+
+A four phase Java to MIPs compiler which translates Java programs and converts to low level register instructions.
