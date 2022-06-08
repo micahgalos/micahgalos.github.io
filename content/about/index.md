@@ -8,6 +8,8 @@ skills:
   - Python
 ---
 
-Hello!
+Hello! I am a first generation alumni from the University of California, Riverside--where I completed my Bachelor's of Science in Computer Engineering from 2019 - 2021.
 
-Here is a list of the technologies that I'm familiar with!
+I am currently active brushing up my C++/Java coding and problem-solving skills while looking for software (development) engineering positions.
+
+Here is a list of the languages that I'm familiar with!
