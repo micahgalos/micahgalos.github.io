@@ -107,7 +107,7 @@ const Footer = () => {
           rel="nofollow noopener noreferrer">
           <div>
             Designed &amp; Built by Brittany Chiang<br></br>
-            Forked from Chandrika Deb
+            Forked from Chandrika Deb<br></br>
             Revised by Micah Galos
           </div>
 
