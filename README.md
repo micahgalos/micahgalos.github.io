@@ -2,14 +2,10 @@
   <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website Version 2
+  Portfolio Website Version 1
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  The first iteration of <a href="https://micahzugalos.netlify.app/" target="_blank">micahzugalos.netlify.app/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <div align="center">
@@ -18,9 +14,7 @@
 
 ### TL;DR
 
-This is a fork from Chandrika Deb's, so all information is still a work in progress to adjust to my credentials.
-
-Thank you to Chandrika Deb for allowing us to fork and Brittany Chiang for the credit in the design.
+Thank you to Chandrika Deb with fork access and credits to Brittany Chiang for design.
 
 Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
