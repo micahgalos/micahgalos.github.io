@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: ' Micah Galos | Recent Graduate ',
+  siteTitle: ' Micah Galos | Computer Engineer ',
   siteDescription:
-    'Micah Galos is recent graduate at UCR, actively looking for software engineering positions.',
+    'Micah Galos is a recent Computer Engineering graduate at UCR, actively looking for software engineering positions.',
   siteKeywords:
     'Micah Galos, Micah, Galos, micahgalos',
   siteUrl: 'https://micahgalos.github.io/',
