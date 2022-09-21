@@ -6,5 +6,8 @@ range: 'June 2013 - June 2014'
 url: 'https://healthy.kaiserpermanente.org/'
 ---
 
-- In-person informational computer front desk assistance.
-- Cooperated with nurses and secretaries in their workflow and moving medical equipment.
+- Front desk information assisting visitors with questions and directions on mornings and afternoon.
+- Shows positive attitude towards co-workers and hospital visitors for six hours on the day-to-day.
+- Cooperated with recovery room nurses and secretaries with checking-in patients for surgery.
+- Answered to phone calls from nurses and secretaries to bring in patients into the recovery room for surgery.
+- Returning medical equipment back to their original floor at the facility
