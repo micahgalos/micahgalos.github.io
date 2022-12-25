@@ -20,7 +20,7 @@ module.exports = {
         name: 'MicahGalos',
         short_name: 'MicahGalos',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: config.colors.darkGray,
         theme_color: config.colors.gray,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
