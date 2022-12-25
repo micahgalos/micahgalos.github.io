@@ -51,7 +51,7 @@ const StyledLogo = styled.div`
     &:hover,
     &:focus {
       svg {
-        fill: ${colors.transGreen};
+        fill: ${colors.transRed};
       }
     }
     svg {
