@@ -72,7 +72,7 @@ const StyledProjectHeader = styled.div`
   margin-bottom: 30px;
 `;
 const StyledFolder = styled.div`
-  color: ${colors.green};
+  color: ${colors.red};
   svg {
     width: 40px;
     height: 40px;
@@ -115,7 +115,7 @@ const StyledTechList = styled.ul`
   li {
     font-family: ${fonts.SFMono};
     font-size: ${fontSizes.xs};
-    color: ${colors.green};
+    color: ${colors.red};
     line-height: 1.75;
     margin-right: 15px;
     &:last-of-type {
