@@ -2,13 +2,13 @@ import { hex2rgba } from '@utils';
 
 const ACCENT = '#e60056';
 const DARK_BG = '#171819';
-const BG = '#2e3138';
+const BG = '#0B0C0C';
 
 const theme = {
   colors: {
     darkGray: DARK_BG,
     gray: BG,
-    lightGray: '#0B0C0C',
+    lightGray: '#2e3138',
     lightestNavy: '#303C55',
     slate: '#8892b0',
     lightSlate: '#a8b2d1',
