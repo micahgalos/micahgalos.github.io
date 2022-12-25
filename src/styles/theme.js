@@ -8,7 +8,7 @@ const theme = {
   colors: {
     darkGray: DARK_BG,
     gray: BG,
-    lightNavy: '#172a45',
+    lightGray: '#0B0C0C',
     lightestNavy: '#303C55',
     slate: '#8892b0',
     lightSlate: '#a8b2d1',

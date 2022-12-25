@@ -161,7 +161,7 @@ const GlobalStyle = createGlobalStyle`
     }
 
     & > code {
-      background-color: ${colors.lightNavy};
+      background-color: ${colors.lightGray};
       color: ${colors.white};
       font-size: ${fontSizes.sm};
       border-radius: ${theme.borderRadius};

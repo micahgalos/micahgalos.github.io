@@ -54,7 +54,7 @@ const StyledProjectInner = styled.div`
   height: 100%;
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
-  background-color: ${colors.lightNavy};
+  background-color: ${colors.lightGray};
 `;
 const StyledProject = styled.div`
   transition: ${theme.transition};
