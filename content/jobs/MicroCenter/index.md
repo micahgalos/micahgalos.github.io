@@ -1,6 +1,6 @@
 ---
 date: '2022-10-11'
-title: 'Customer Service Representative - Cashier'
+title: 'Customer Service Representative/Cashier'
 company: 'Micro Center'
 range: 'October 2022 - Present'
 url: 'https://www.microcenter.com/site/stores/tustin.aspx'
