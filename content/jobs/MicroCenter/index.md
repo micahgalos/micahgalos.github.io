@@ -6,7 +6,8 @@ range: 'October 2022 - Present'
 url: 'https://www.microcenter.com/site/stores/tustin.aspx'
 ---
 
-- Cooperating with fellow cashiers and front end leads in maintaining a fast-paced environment in performing accurate sales transactions.
-- Optimizing transaction routines with POS system to decrease times between item returns and purchases for every customer.
-- Consulting with customers by offering protection plans for products being purchased to ensure product replacement and customer satisfaction.
-- Maintained clean work station for each POS register in accordance to the area of responsibility policy.
+- Managing balance between different tasks such as item checkout, customer support, and merchandise restock.
+- Actively listening to issues from varying customers and finding a solution to their stress.
+- Able to find areas of improvement by taking initiative of productivity at item checkout.
+- Adapting to the functions of different products outside of my knowledge in gaining knowledge about the items.
+- Constantly improving customer service routines towards customers based on feedback from managers.
