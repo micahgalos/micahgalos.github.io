@@ -6,8 +6,9 @@ range: 'October 2022 - Present'
 url: 'https://www.microcenter.com/site/stores/tustin.aspx'
 ---
 
-- Managing balance between different tasks such as item checkout, customer support, and merchandise restock.
-- Actively listening to issues from varying customers and finding a solution to their stress.
-- Able to find areas of improvement by taking initiative of productivity at item checkout.
-- Adapting to the functions of different products outside of my knowledge in gaining knowledge about the items.
-- Constantly improving customer service routines towards customers based on feedback from managers.
+- Assisted shadowing new hires to become efficient utilizing the cash register’s POS system.
+- Provided leadership support to supervisors in assisting cashiers to ensure efficient customer checkout times
+- Oversaw online tickets for return policies, transaction inquiries and concerns through the store’s zendesk portal.
+- Administered excellent customer service at customer checkout by providing assistance on inquiries and concerns
+- Maintained a positive working environment at the front end department for the safety of fellow CSRs and supervisors.
+- Performed daily routines such as merchandise restocking, cleaning POS stations, inventory cycle counting, and sales counting amongst CSRs.
