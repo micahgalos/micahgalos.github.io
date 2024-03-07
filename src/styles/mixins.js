@@ -85,7 +85,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.transViolet};
+      background-color: ${colors.transRed};
     }
     &:after {
       display: none !important;
@@ -107,7 +107,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.transViolet};
+      background-color: ${colors.transRed};
     }
     &:after {
       display: none !important;
